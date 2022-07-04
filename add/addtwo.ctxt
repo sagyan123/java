@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=addtwo
+comment0.text=\r\n\ Write\ a\ description\ of\ addtwo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b
+comment1.target=int\ adding(int,\ int)
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Totalnumber
+comment1.params=
+comment1.target=void\ PrintNames()
+comment2.params=fr
+comment2.target=void\ Totalnumber(edu.duke.FileResource)
+comment3.params=
+comment3.target=void\ Totalnumber()
+numComments=4
